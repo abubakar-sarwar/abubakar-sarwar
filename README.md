@@ -1,10 +1,13 @@
-### Hi there 👋, Muhammad Abu Bakar
+### Hi there 👋, I'm Muhammad Abu Bakar
 #### Web App Developer
-![Web App Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I am a Web Developer with over 1+ years of experience working with 𝗥𝗲𝗮𝗰𝘁.𝗝𝗦 and 𝗟𝗮𝗿𝗮𝘃𝗲𝗹 𝗔𝗣𝗜𝘀 with 𝗠𝘆𝗦𝗤𝗟 and 3+ years of experience 𝗛𝗧𝗠𝗟 & 𝗖𝗦𝗦 / 𝗦𝗖𝗦𝗦 | Specialize in Dynamic Website, Responsive Design & Web Optimization. All my websites are lovingly 𝗛𝗮𝗻𝗱 𝗖𝗼𝗱𝗲𝗱.
 
-Skills: LARAVEL API'S / REACT / JS / HTML / CSS
+### Skills:
+• LARAVEL API'S
+• REACT JS
+• HTML / HTML5
+• SCSS / CSS
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-abubakar-b238a5298/)
 
