@@ -7,7 +7,7 @@ I am a Web App Developer with over 1+ years of experience working with 𝗥𝗲�
 
 𝗦𝗘𝗥𝗩𝗜𝗖𝗘 | One notable project involved developing a dynamic e-commerce platform with custom real time cars number plates editing for a client from United Kingdom.
 
-✅ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝗻𝗸: [https://boostremap.co.uk](https://boostremap.co.uk){:target="_blank" rel="noopener"}
+✅ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝗻𝗸: [https://boostremap.co.uk](https://boostremap.co.uk) <a href="http://example.com/" target="_blank">Hello, world!</a>
 
 This experience confirmed my capacity to produce customized online solutions while working alone, and I'm excited to keep applying my love of coding to new projects.
 
