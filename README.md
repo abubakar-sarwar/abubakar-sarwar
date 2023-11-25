@@ -14,7 +14,9 @@ This experience confirmed my capacity to produce customized online solutions whi
 ## Skills
 • LARAVEL API'S<br>
 • REACT JS<br>
+• NEXT JS<br>
 • HTML / HTML5<br>
+• TAILWIND CSS<br>
 • SCSS / CSS<br>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/muhammad-abubakar-b238a5298/)  
