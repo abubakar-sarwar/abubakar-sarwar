@@ -12,11 +12,11 @@ I am a Mern Stack / Web App Developer with over 1+ years of experience working w
 This experience confirmed my capacity to produce customized online solutions while working alone, and I'm excited to keep applying my love of coding to new projects.
 
 ## Skills
-• LARAVEL API'S<br>
+• Laravel API's<br>
 • Node JS<br>
-• MongoDB / SQL<br>
-• REACT JS<br>
-• NEXT JS<br>
+• MongoDB / MySQL<br>
+• React JS<br>
+• Next JS<br>
 • Redux<br>
 • HTML / HTML5<br>
 • TAILWIND CSS<br>
