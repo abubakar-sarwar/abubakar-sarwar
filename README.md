@@ -1,7 +1,7 @@
 ![Web App Developer](https://github.com/abubakar-sarwar/abubakar-sarwar/blob/main/banner.jpg)
 
 # Hi there 👋, I'm Muhammad Abu Bakar
-I am a Mern Stack / Web App Developer with over 1+ years of experience working with 𝗥𝗲𝗮𝗰𝘁.𝗝𝗦, Next.𝗝𝗦, Tailwind, 𝗟𝗮𝗿𝗮𝘃𝗲𝗹 𝗔𝗣𝗜'𝘀 with 𝗠𝘆𝗦𝗤𝗟 and Node JS 𝗔𝗣𝗜'𝘀 with MongoDB. Also 3+ years of experience 𝗛𝗧𝗠𝗟 & 𝗖𝗦𝗦 / 𝗦𝗖𝗦𝗦 | Specialize in Dynamic Website, Responsive Design & Web Optimization. All my websites are lovingly 𝗛𝗮𝗻𝗱 𝗖𝗼𝗱𝗲𝗱.
+I am a Mern Stack / Web App Developer with over 1+ years of experience working with 𝗥𝗲𝗮𝗰𝘁.𝗝𝗦, 𝗡𝗲𝘅𝘁.𝗝𝗦, 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱, 𝗟𝗮𝗿𝗮𝘃𝗲𝗹 𝗔𝗣𝗜'𝘀 with 𝗠𝘆𝗦𝗤𝗟 and 𝗡𝗼𝗱𝗲 𝗝𝗦 𝗔𝗣𝗜'𝘀 with 𝗠𝗼𝗻𝗴𝗼𝗗𝗕. Also 3+ years of experience 𝗛𝗧𝗠𝗟 & 𝗖𝗦𝗦 / 𝗦𝗖𝗦𝗦 | Specialize in Dynamic Website, Responsive Design & Web Optimization. All my websites are lovingly 𝗛𝗮𝗻𝗱 𝗖𝗼𝗱𝗲𝗱.
 
 𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟𝗦 | I typically use React/Next JS in client, PHP Laravel Rest Api's or Node JS Rest Api's on the server, and http for communication between client and server. Also have working experience in broadcasting using laravel channels.
 
