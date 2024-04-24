@@ -14,8 +14,9 @@ This experience confirmed my capacity to produce customized online solutions whi
 ✅ Portfolio: https://abubakarsarwar.vercel.app/
 
 ## PROJECTS
+✅ Just Imagine: https://careerjustimagine.com/<br/>
 ✅ Dream Home: https://gldreamhome.com/<br/>
-✅ GuideLine: https://www.glgroupuae.com/
+✅ GuideLine: https://www.glgroupuae.com/<br/>
 
 ## Skills
 • Laravel API's • Node JS • MongoDB / MySQL • React JS • Next JS • Redux • HTML / HTML5 • TAILWIND CSS • SCSS / CSS
