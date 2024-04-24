@@ -11,7 +11,9 @@ I am a MERN Stack Developer with over 2+ years of experience working with 𝗥�
 
 This experience confirmed my capacity to produce customized online solutions while working alone, and I'm excited to keep applying my love of coding to new projects.
 
+## PUBLIC PROJECTS
 ✅ Portfolio: https://abubakarsarwar.vercel.app/
+✅ ThrillQuest: https://thrillquest.vercel.app/
 
 ## PROJECTS
 ✅ Just Imagine: https://careerjustimagine.com/<br/>
