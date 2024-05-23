@@ -34,7 +34,7 @@ Passionate MERN Stack Developer with 3+ years of experience in web development i
 	Implemented back-end functionalities and integrated various services to ensure seamless communication and data flow.
   </li>
   <li>
-	Leveraged both front-end and back-end expertise to deliver a cohesive and user-friendly consultancy platform.Thrillquest (https://thrillquest.vercel.app/)
+	Leveraged both front-end and back-end expertise to deliver a cohesive and user-friendly consultancy platform.
   </li>
 </ul>
 ✅ 𝗧𝗵𝗿𝗶𝗹𝗹𝗾𝘂𝗲𝘀𝘁:
