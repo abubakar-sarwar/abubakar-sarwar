@@ -3,15 +3,15 @@
 # Hi there 👋, I'm Muhammad Abu Bakar
 Passionate MERN Stack Developer with 3+ years of experience in web development in the tech industry. Skilled at creating scalable and maintainable web apps while focusing on delivering excellent user experiences and optimizing application speed using technologies like Next.js, Node.js, Laravel, etc. Specialize in Dynamic Website, Responsive Design & Web Optimization. All my websites are lovingly 𝗛𝗮𝗻𝗱 𝗖𝗼𝗱𝗲𝗱.
 
-𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟𝗦:
+𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟𝗦:<br/>
 𝗥𝗲𝗮𝗰𝘁.𝗝𝗦, 𝗡𝗲𝘅𝘁.𝗝𝗦, 𝐑𝐞𝐚𝐜𝐭-𝐑𝐨𝐮𝐭𝐞𝐫-𝐃𝐨𝐦, 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝐂𝐒𝐒, 𝐒𝐂𝐒𝐒, 𝐂𝐒𝐒, 𝐑𝐞𝐝𝐮𝐱, 𝐑𝐞𝐝𝐮𝐱 𝐓𝐨𝐨𝐥𝐊𝐢𝐭, 𝐆𝐒𝐀𝐏, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝗟𝗮𝗿𝗮𝘃𝗲𝗹 with 𝗠𝘆𝗦𝗤𝗟 and 𝗡𝗼𝗱𝗲.𝗝𝗦 with 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝐏𝐨𝐬𝐭𝐦𝐚𝐧, 𝐕𝐞𝐫𝐜𝐞𝐥, 𝐆𝐢𝐭.
+<br />
 ✅ 𝗝𝘂𝘀𝘁 𝗜𝗺𝗮𝗴𝗶𝗻𝗲: 
 <ul>
   <li>
 	Utilized best practices for performance optimization and maintainability, ensuring a robust and scalable codebase.
   </li>
 </ul>
-
 ✅ 𝗗𝗿𝗲𝗮𝗺 𝗛𝗼𝗺𝗲:
 <ul>
   <li>
@@ -36,7 +36,6 @@ Passionate MERN Stack Developer with 3+ years of experience in web development i
 	Leveraged both front-end and back-end expertise to deliver a cohesive and user-friendly consultancy platform.Thrillquest (https://thrillquest.vercel.app/)
   </li>
 </ul>
-
 ✅ 𝗧𝗵𝗿𝗶𝗹𝗹𝗾𝘂𝗲𝘀𝘁:
 <ul>
   <li>
@@ -49,7 +48,6 @@ Passionate MERN Stack Developer with 3+ years of experience in web development i
 	Designed a captivating UI with responsive elements and smooth transitions, providing an immersive experience for users
   </li>
 </ul>
-
 ✅ 𝗗𝗡𝗗 𝗧𝗢𝗗𝗢:
 <ul>
   <li>
@@ -57,7 +55,6 @@ Passionate MERN Stack Developer with 3+ years of experience in web development i
   </li>
   <li>
 	Theme Customization: Enabled users to customize the application's theme with data persistence, providing a personalized user experience
-    
   </li>
 </ul>
 
