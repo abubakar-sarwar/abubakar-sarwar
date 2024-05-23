@@ -60,7 +60,7 @@ Passionate MERN Stack Developer with 3+ years of experience in web development i
 </ul>
 
 I’m excited about opportunities that involve working with modern web technologies, allowing me to utilize my experience to create visually appealing and user-friendly websites.
-Do you want to become a collaborator on Github? Then check out my GitHub profile: github.com/abubakar-sarwar 🔔 Do you want to know more about my background? I’d love to connect on LinkedIn!
+Do you want to know more about my background? I’d love to connect on LinkedIn! https://www.linkedin.com/in/muhammad-abubakar-b238a5298/
 
 ## PROJECTS
 ✅ Portfolio: https://abubakarsarwar.vercel.app/<br/>
