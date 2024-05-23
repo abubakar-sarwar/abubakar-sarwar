@@ -1,15 +1,68 @@
 ![Web App Developer](https://github.com/abubakar-sarwar/abubakar-sarwar/blob/main/banner.jpg)
 
 # Hi there 👋, I'm Muhammad Abu Bakar
-I am a MERN Stack Developer with over 2+ years of experience working with 𝗥𝗲𝗮𝗰𝘁.𝗝𝗦, 𝗡𝗲𝘅𝘁.𝗝𝗦, 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱, 𝗟𝗮𝗿𝗮𝘃𝗲𝗹 𝗔𝗣𝗜'𝘀 with 𝗠𝘆𝗦𝗤𝗟 and 1+ years in 𝗡𝗼𝗱𝗲 𝗝𝗦 𝗔𝗣𝗜'𝘀 with 𝗠𝗼𝗻𝗴𝗼𝗗𝗕. Specialize in Dynamic Website, Responsive Design & Web Optimization. All my websites are lovingly 𝗛𝗮𝗻𝗱 𝗖𝗼𝗱𝗲𝗱.
+Passionate MERN Stack Developer with 3+ years of experience in web development in the tech industry. Skilled at creating scalable and maintainable web apps while focusing on delivering excellent user experiences and optimizing application speed using technologies like Next.js, Node.js, Laravel, etc. Specialize in Dynamic Website, Responsive Design & Web Optimization. All my websites are lovingly 𝗛𝗮𝗻𝗱 𝗖𝗼𝗱𝗲𝗱.
 
-𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟𝗦 | I typically use React/Next JS in client, PHP Laravel Rest Api's or Node JS Rest Api's on the server, and http for communication between client and server. Also have working experience in broadcasting using laravel channels.
+𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟𝗦:
+𝗥𝗲𝗮𝗰𝘁.𝗝𝗦, 𝗡𝗲𝘅𝘁.𝗝𝗦, 𝐑𝐞𝐚𝐜𝐭-𝐑𝐨𝐮𝐭𝐞𝐫-𝐃𝐨𝐦, 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝐂𝐒𝐒, 𝐒𝐂𝐒𝐒, 𝐂𝐒𝐒, 𝐑𝐞𝐝𝐮𝐱, 𝐑𝐞𝐝𝐮𝐱 𝐓𝐨𝐨𝐥𝐊𝐢𝐭, 𝐆𝐒𝐀𝐏, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝗟𝗮𝗿𝗮𝘃𝗲𝗹 with 𝗠𝘆𝗦𝗤𝗟 and 𝗡𝗼𝗱𝗲.𝗝𝗦 with 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝐏𝐨𝐬𝐭𝐦𝐚𝐧, 𝐕𝐞𝐫𝐜𝐞𝐥, 𝐆𝐢𝐭.
+✅ 𝗝𝘂𝘀𝘁 𝗜𝗺𝗮𝗴𝗶𝗻𝗲: 
+<ul>
+  <li>
+	Utilized best practices for performance optimization and maintainability, ensuring a robust and scalable codebase.
+  </li>
+</ul>
 
-𝗦𝗘𝗥𝗩𝗜𝗖𝗘 | One notable project involved developing a dynamic e-commerce platform with custom real time cars number plates editing for a client from United Kingdom.
+✅ 𝗗𝗿𝗲𝗮𝗺 𝗛𝗼𝗺𝗲:
+<ul>
+  <li>
+	Contributed to both the front-end and back-end development of an e-commerce furniture application.
+  </li>
+  <li>
+	Implemented discount functionalities and integrated and created part of a RESTful API using Node.js and MongoDB for efficient data management.
+  </li>
+  <li>
+	 Contributed to performance optimization and maintainability for a scalable and robust platform.
+  </li>
+</ul>
+✅ 𝗚𝘂𝗶𝗱𝗲𝗟𝗶𝗻𝗲:
+<ul>
+  <li>
+	Collaboratively developed front-end components within a team while independently handling backend development and integration for a consultancy application.
+  </li>
+  <li>
+	Implemented back-end functionalities and integrated various services to ensure seamless communication and data flow.
+  </li>
+  <li>
+	Leveraged both front-end and back-end expertise to deliver a cohesive and user-friendly consultancy platform.Thrillquest (https://thrillquest.vercel.app/)
+  </li>
+</ul>
 
-✅ 𝗣𝗿𝗼𝗷𝗲𝗰𝘁 𝗟𝗶𝗻𝗸: https://boostremap.co.uk
+✅ 𝗧𝗵𝗿𝗶𝗹𝗹𝗾𝘂𝗲𝘀𝘁:
+<ul>
+  <li>
+	Integrated GSAP for creating smooth and intricate animations,
+  </li>
+  <li>
+	delivering a seamless and interactive user experience.
+  </li>
+  <li>
+	Designed a captivating UI with responsive elements and smooth transitions, providing an immersive experience for users
+  </li>
+</ul>
 
-This experience confirmed my capacity to produce customized online solutions while working alone, and I'm excited to keep applying my love of coding to new projects.
+✅ 𝗗𝗡𝗗 𝗧𝗢𝗗𝗢:
+<ul>
+  <li>
+	Developed custom drag-and-drop features without relying on external libraries, showcasing advanced TypeScript skills and problem-solving abilities.
+  </li>
+  <li>
+	Theme Customization: Enabled users to customize the application's theme with data persistence, providing a personalized user experience
+    
+  </li>
+</ul>
+
+I’m excited about opportunities that involve working with modern web technologies, allowing me to utilize my experience to create visually appealing and user-friendly websites.
+Do you want to become a collaborator on Github? Then check out my GitHub profile: github.com/abubakar-sarwar 🔔 Do you want to know more about my background? I’d love to connect on LinkedIn!
 
 ## PROJECTS
 ✅ Portfolio: https://abubakarsarwar.vercel.app/<br/>
