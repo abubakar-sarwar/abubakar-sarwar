@@ -46,7 +46,7 @@ Passionate MERN Stack Developer with 3+ years of experience in web development i
 	delivering a seamless and interactive user experience.
   </li>
   <li>
-	Designed a captivating UI with responsive elements and smooth transitions, providing an immersive experience for users
+	Designed a captivating UI with responsive elements and smooth transitions, providing an immersive experience for users.
   </li>
 </ul>
 ✅ 𝗗𝗡𝗗 𝗧𝗢𝗗𝗢:
@@ -55,8 +55,20 @@ Passionate MERN Stack Developer with 3+ years of experience in web development i
 	Developed custom drag-and-drop features without relying on external libraries, showcasing advanced TypeScript skills and problem-solving abilities.
   </li>
   <li>
-	Theme Customization: Enabled users to customize the application's theme with data persistence, providing a personalized user experience
+	Theme Customization: Enabled users to customize the application's theme with data persistence, providing a personalized user experience.
   </li>
+</ul>
+✅ 𝗣𝗹𝗮𝘁𝗲𝘀 𝗙𝗼𝗿 𝗖𝗮𝗿𝘀:
+<ul>
+  <li>
+Independently developed front-end components using React.js while managing backend development and integration with Laravel for an e-commerce and online car plates editor platform.
+  </li>
+  <li>
+Implemented robust back-end functionalities and integrated various services to ensure seamless communication and data flow.
+  </li>
+	<li>
+Leveraged both front-end and back-end expertise to deliver a cohesive, user-friendly platform for purchasing car plates and customizing designs online.
+	</li>
 </ul>
 
 I’m excited about opportunities that involve working with modern web technologies, allowing me to utilize my experience to create visually appealing and user-friendly websites.
