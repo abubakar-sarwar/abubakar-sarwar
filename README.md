@@ -1,7 +1,7 @@
 ![Web App Developer](https://github.com/abubakar-sarwar/abubakar-sarwar/blob/main/banner.jpg)
 
 # Hi there 👋, I'm Muhammad Abu Bakar
-Passionate MERN Stack Developer with 3+ years of experience in web development in the tech industry. Skilled at creating scalable and maintainable web apps while focusing on delivering excellent user experiences and optimizing application speed using technologies like Next.js, Node.js, Laravel, etc. Specialize in Dynamic Website, Responsive Design & Web Optimization. All my websites are lovingly 𝗛𝗮𝗻𝗱 𝗖𝗼𝗱𝗲𝗱.
+Passionate Full Stack Developer(Team lead) with 3+ years of experience in web development in the tech industry. Skilled at creating scalable and maintainable web apps while focusing on delivering excellent user experiences and optimizing application speed using technologies like Next.js, Node.js, Laravel, etc. Specialize in Dynamic Website, Responsive Design & Web Optimization. All my websites are lovingly 𝗛𝗮𝗻𝗱 𝗖𝗼𝗱𝗲𝗱.
 
 𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟𝗦:<br/>
 <p>
@@ -75,14 +75,16 @@ I’m excited about opportunities that involve working with modern web technolog
 Do you want to know more about my background? I’d love to connect on LinkedIn! https://www.linkedin.com/in/muhammad-abubakar-b238a5298/
 
 ## PROJECTS
+✅ Next-Simple-Select: https://www.npmjs.com/package/next-simple-select<br/>
 ✅ Portfolio: https://abubakarsarwar.vercel.app/<br/>
 ✅ ThrillQuest: https://thrillquest.vercel.app/<br/>
 ✅ DND TODO: https://dnd-todo-custom.vercel.app/<br/>
 
 ## PROJECTS CONTRIBUTED TO
+✅ KAF: https://www.kaf.ae/<br/>
+✅ GuideLine: https://www.glgroupuae.com/<br/>
 ✅ Just Imagine: https://careerjustimagine.com/<br/>
 ✅ Dream Home: https://gldreamhome.com/<br/>
-✅ GuideLine: https://www.glgroupuae.com/<br/>
 
 ## Skills
 • Laravel API's • Node JS • MongoDB / MySQL • React JS • Next JS • Redux • HTML / HTML5 • TAILWIND CSS • SCSS / CSS
