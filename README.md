@@ -5,7 +5,7 @@ Passionate Full Stack Developer(Team lead) with 3+ years of experience in web de
 
 𝗧𝗘𝗖𝗛𝗡𝗜𝗖𝗔𝗟 𝗦𝗞𝗜𝗟𝗟𝗦:<br/>
 <p>
-𝗥𝗲𝗮𝗰𝘁.𝗝𝗦, 𝗡𝗲𝘅𝘁.𝗝𝗦, 𝐑𝐞𝐚𝐜𝐭-𝐑𝐨𝐮𝐭𝐞𝐫-𝐃𝐨𝐦, 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝐂𝐒𝐒, 𝐒𝐂𝐒𝐒, 𝐂𝐒𝐒, 𝐑𝐞𝐝𝐮𝐱, 𝐑𝐞𝐝𝐮𝐱 𝐓𝐨𝐨𝐥𝐊𝐢𝐭, 𝐆𝐒𝐀𝐏, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝗟𝗮𝗿𝗮𝘃𝗲𝗹 with 𝗠𝘆𝗦𝗤𝗟 and 𝗡𝗼𝗱𝗲.𝗝𝗦 with 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝐏𝐨𝐬𝐭𝐦𝐚𝐧, 𝐕𝐞𝐫𝐜𝐞𝐥, 𝐆𝐢𝐭.
+𝗥𝗲𝗮𝗰𝘁.𝗷𝘀, 𝗡𝗲𝘅𝘁.𝗷𝘀, 𝗡𝗲𝘀𝘁.𝗷𝘀, 𝐑𝐞𝐚𝐜𝐭-𝐑𝐨𝐮𝐭𝐞𝐫-𝐃𝐨𝐦, 𝗧𝗮𝗶𝗹𝘄𝗶𝗻𝗱𝐂𝐒𝐒, 𝐒𝐂𝐒𝐒, 𝐂𝐒𝐒, 𝐑𝐞𝐝𝐮𝐱, 𝐑𝐞𝐝𝐮𝐱 𝐓𝐨𝐨𝐥𝐊𝐢𝐭, 𝐆𝐒𝐀𝐏, 𝐉𝐚𝐯𝐚𝐒𝐜𝐫𝐢𝐩𝐭, 𝐓𝐲𝐩𝐞𝐒𝐜𝐫𝐢𝐩𝐭, 𝗟𝗮𝗿𝗮𝘃𝗲𝗹 with 𝗠𝘆𝗦𝗤𝗟 and 𝗡𝗼𝗱𝗲.𝗷𝘀/𝗡𝗲𝘀𝘁.𝗷𝘀 with 𝗠𝗼𝗻𝗴𝗼𝗗𝗕, 𝐏𝐨𝐬𝐭𝐦𝐚𝐧, 𝐕𝐞𝐫𝐜𝐞𝐥, 𝐆𝐢𝐭.
 </p>
 ✅ 𝗝𝘂𝘀𝘁 𝗜𝗺𝗮𝗴𝗶𝗻𝗲:
 <ul>
@@ -76,6 +76,7 @@ Do you want to know more about my background? I’d love to connect on LinkedIn!
 
 ## PROJECTS
 ✅ Next-Simple-Select: https://www.npmjs.com/package/next-simple-select<br/>
+✅ TMS(Transportation Management System)(Private): https://tms-jet.vercel.app<br/>
 ✅ Portfolio: https://abubakarsarwar.vercel.app/<br/>
 ✅ ThrillQuest: https://thrillquest.vercel.app/<br/>
 ✅ DND TODO: https://dnd-todo-custom.vercel.app/<br/>
