@@ -80,8 +80,6 @@ Do you want to know more about my background? I’d love to connect on LinkedIn!
 ✅ Portfolio: https://abubakarsarwar.vercel.app/<br/>
 ✅ ThrillQuest: https://thrillquest.vercel.app/<br/>
 ✅ DND TODO: https://dnd-todo-custom.vercel.app/<br/>
-
-## PROJECTS CONTRIBUTED TO
 ✅ KAF: https://www.kaf.ae/<br/>
 ✅ GuideLine: https://www.glgroupuae.com/<br/>
 ✅ Just Imagine: https://careerjustimagine.com/<br/>
@@ -90,9 +88,3 @@ Do you want to know more about my background? I’d love to connect on LinkedIn!
 ## Skills
 
 ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![LangChain](https://img.shields.io/badge/langchain-%231C3B3B.svg?style=for-the-badge&logo=langchain&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23f60.svg?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Stripe.js](https://img.shields.io/badge/stripe-%2396f.svg?style=for-the-badge&logo=stripe&logoColor=white) ![OpenAI](https://img.shields.io/badge/openai-%23000.svg?style=for-the-badge&logo=openai&logoColor=white) ![OpenRouter](https://img.shields.io/badge/openrouter-%23000.svg?style=for-the-badge&logo=openrouter&logoColor=white) ![Socket.io](https://img.shields.io/badge/socket-%2325c2a0.svg?style=for-the-badge&logo=socket&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23f90.svg?style=for-the-badge&logo=aws&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2300BBFF.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Google Maps](https://img.shields.io/badge/googlemaps-%23007b8b.svg?style=for-the-badge&logo=googlemaps&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![GSAP](https://img.shields.io/badge/gsap-%230ae448.svg?style=for-the-badge&logo=gsap&logoColor=white) ![Git](https://img.shields.io/badge/git-%23238636.svg?style=for-the-badge&logo=git&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=abubakar-sarwar&icon=0&color=0)](https://visitcount.itsvg.in)
-
-🔭 I’m currently working on this page...
